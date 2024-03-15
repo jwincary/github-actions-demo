@@ -1,2 +1,2 @@
 # github-actions-demo
-A demo repo for GitHub actions
+A demo repo for GitHub actions.
